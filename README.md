@@ -1,1 +1,1 @@
-# amazon.web
+# amazon_clone
